@@ -1,0 +1,12 @@
+When you click play in Main Menu,
+GUI "Are you ready?" displays, 
+you can choose Yes to start the game, or choose No to return Main Menu. 
+If you click Yes, the game's GUI will display:
+Press b to back to GUI"Are you ready?"
+When playing, you can press 0 or 1 to select AI level (default is 1)
+Rules of game is:
+1. The game is played on a grid that's 3 squares by 3 squares.
+2. You are X, AI is O.
+Players take turns putting their marks in empty squares.
+3. The first player to get 3 of her marks in a row is the winner.
+4. When all 9 squares are full, the game ends in a tie.
